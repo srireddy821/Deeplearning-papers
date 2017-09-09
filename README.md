@@ -5,7 +5,7 @@
 ## Face recognition
 
 ## Facial attributes (Age, Gender, Ethnicity)
-(https://arxiv.org/pdf/1708.08197v1 Cross-Age LFW: A Database for Studying Cross-Age Face Recognition in Unconstrained Environments)
+[Cross-Age LFW: A Database for Studying Cross-Age Face Recognition in Unconstrained Environments](https://arxiv.org/pdf/1708.08197v1)
 
 ## Object detection
 
