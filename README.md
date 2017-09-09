@@ -12,4 +12,4 @@
 ## Object tracking
 
 ## Theory papers
-(https://arxiv.org/pdf/1709.01450v1.pdf The Devil is in the Tails:Fine-grained Classification in the Wild)
+[The Devil is in the Tails:Fine-grained Classification in the Wild](https://arxiv.org/pdf/1709.01450v1.pdf)
