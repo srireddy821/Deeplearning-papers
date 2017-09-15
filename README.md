@@ -5,7 +5,7 @@
 
 ## Face recognition
 1. [Sphere face](https://github.com/wy1iu/sphereface)
-
+2. [End-to-end Face Detection and Cast Grouping in Movies Using Erdos-R enyi Clustering](https://people.cs.umass.edu/~elm/papers/Erdos.pdf)
 ## Facial attributes (Age, Gender, Ethnicity)
 1. [Cross-Age LFW: A Database for Studying Cross-Age Face Recognition in Unconstrained Environments](https://arxiv.org/pdf/1708.08197v1)
 
