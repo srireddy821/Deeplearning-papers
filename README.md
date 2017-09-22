@@ -2,8 +2,7 @@
 
 ## Face detection 
 1. [S3FD: Single Shot Scale-invariant Face Detector](https://arxiv.org/pdf/1708.05237.pdf)
-2. [Detecting Faces Using Region-based FullyConvolutional Networks](Detecting Faces Using Region-based Fully
-Convolutional Networks)
+2. [Detecting Faces Using Region-based FullyConvolutional Networks](https://arxiv.org/pdf/1709.05256v2.pdf)
 
 ## Face recognition
 1. [Sphere face](https://github.com/wy1iu/sphereface)
