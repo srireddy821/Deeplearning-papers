@@ -23,4 +23,5 @@ for Age and Gender Classification](https://arxiv.org/pdf/1708.07689v1.pdf)
 
 ## References
 1. [facerpapers](https://github.com/number9473/nn-algorithm)
+2. [face-recogntion](https://github.com/ShownX/FacePaperCollection)
 
